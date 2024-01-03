@@ -11,20 +11,20 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
  <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
- <td><a href="https://github.com/B11135044/chu-vercel-1122-main.git">巨量資料處理</a></td>
+ <td><a href="https://github.com/B11135044/BigDataProcessing.git">回家作業</a></td>
  <td>吳 O 祖</td>
  </tr>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
  <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
- <td><a href="">資料視覺化</a></td>
+ <td><a href="https://github.com/B11135044/chu-vercel-1122-main.git">課程練習</a></td>
  <td>劉 O 華</td>
  </tr>
 
  <tr>
  <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
  <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
- <td><a href="">其他</a></td>
+ <td><a href="https://github.com/B11135044/B11135044.git">其他</a></td>
  <td>梁 O 偉</td>
  </tr>
 </table><br>
